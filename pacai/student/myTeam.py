@@ -17,3 +17,4 @@ def createTeam(firstIndex, secondIndex, isRed,
         firstAgent(firstIndex),
         secondAgent(secondIndex),
     ]
+    #testing
